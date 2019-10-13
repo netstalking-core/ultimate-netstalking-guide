@@ -7,5 +7,7 @@
 
 - [Verda](https://github.com/pantyusha/verda-v1) - приложение для поиска веб-камер через Nmap
 
-- [Nesca](https://github.com/pantyusha/nesca) - легендарный сканер сети от ISKOPASI, отбрасывает мусор, определяет годноту, брутит, открывает веб-камеры
+- [Nesca](https://github.com/ChronosX88/nesca) - легендарный сканер сети от ISKOPASI, отбрасывает мусор, определяет годноту, брутит, открывает веб-камеры
+
+- [Asleep Cams](https://yadi.sk/d/afHBZ9oN3TziBq/) - пак программ и гайдов для камер, созданный командами Asleep и Camshift
 
